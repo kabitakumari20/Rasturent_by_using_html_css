@@ -1,0 +1,11 @@
+h2{
+    color: rgb(1, 2, 1);
+    font-size: 30px;
+}
+.firstDiv {
+    border: 3px outset #f8d406;
+    background-color: rgb(248, 194, 15);
+    text-align: center; 
+}
+
+

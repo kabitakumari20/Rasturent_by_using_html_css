@@ -1,0 +1,17 @@
+h2{
+    color: rgb(1, 2, 1);
+    font-size: 30px;
+}
+img {
+    border: 1px solid #0f010d;
+    border-radius: 18px;
+    padding: 5px;
+    width: 150px;
+}
+
+.main-img{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+}
+
